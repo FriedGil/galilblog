@@ -1,28 +1,49 @@
 ---
-title: First Shabbat of Second Session
+title: Shabbat!
 slug: shabbat
-description: Chanichimot went on an adventure to Hershey Park.
+description: Shabbat shalom, Galil families!
 category:
-  - Two
+- Two
 tags:
-  - First Session
-
+- Second Session
 pubDate: 2023-09-02
-cover: https://www.campgalil.org/wp-content/uploads/2024/07/IMG_9231-1-2048x1365.jpg
+cover: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcoKUx_0VS_gb_6ebWFUWyjCv_XhMKf_wocjlZLqkvrGTr4YwIz8sVOUzbOqbBgh2ivWMkdTnOTiUA15wOgkrHBxJ1425oXBF-s0ugbx4AxUECC95zjKoGUb3iC_VYkg280nqPPO0HoDCq6SZm1Vd9qn3I?key=1vvv5cD4l45CRGtm__ogZg
 coverAlt: AstroVerse-Content Collections
-author: VV
+author: Sebina
 ---
-
-Chanichimot went on an adventure to Hershey Park.
-Chanichimot went on an adventure to Hershey Park.
-
-Chanichimot went on an adventure to Hershey Park.
-Chanichimot went on an adventure to Hershey Park.
-Chanichimot went on an adventure to Hershey Park.
-Chanichimot went on an adventure to Hershey Park.
-Chanichimot went on an adventure to Hershey Park.
-Chanichimot went on an adventure to Hershey Park.
-
-
-
+Shabbat shalom, Galil families!
+Our first Shabbat of the session went swimmingly, especially with our MBM (Machaneh Bonim Mexico) visitors bringing the energy after their travels. Friday morning started out with the daily Ivrit Shimushit skit, followed by the traditional pre-Shabbat breakfast of muffins and the traditional pre-Shabbat ritual of an extended <em>avodah</em> and <em>nikayon tzrif</em> (work and cabin cleaning). <em>Chanichimot</em> always bring their A-game during this time in hopes of having the cleanest tzrif and winning the golden broom!
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcoKUx_0VS_gb_6ebWFUWyjCv_XhMKf_wocjlZLqkvrGTr4YwIz8sVOUzbOqbBgh2ivWMkdTnOTiUA15wOgkrHBxJ1425oXBF-s0ugbx4AxUECC95zjKoGUb3iC_VYkg280nqPPO0HoDCq6SZm1Vd9qn3I?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeU5fJjCxmhueFfWIzch5LLNk7Bnh3BjxThQ1loKV_43b17kTHgTtL6Vv3tzjmWGNvKvFzSnmgl4Dw9lMt_IgFFeQvCn8-q9Qxt7pZB_0lgpezkZQQ0T7v7ZSfuyybC1J7KSroOaYE82StpNdWsEM5B6GU?key=1vvv5cD4l45CRGtm__ogZg"/>
+Next was madatz pish and time for the bogrimot (oldest campers) and the MBMers to get to know each other better. When it came time for Shabbat shira, kids went all out with their costumes and spirited singing. After learning some songs, they ran to Hyde Park for pizza lunch. There were many toppings to choose from, including veggies, pesto, and even sprinkles!
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfrYgFP1jWISoKON6FcW5z2iIyVdiCThHXWSepZH30WIvxa4KiPtNow_6MUnQE2M1w9j5yi6bcCOAsLklBoBO3ZpR3L13ow22CXh_17xxj3QuK_5lpjfA43uyCX1FVh9INdDxP8ycMGiP4pYjs-ruEW9G_4?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqodS2K60-NzcihXBhBiVMKT4n2EJCJm_gxb9Bovlf1o0Dm1qKfqBSCdOXMtAqSw4OkEyVcWjzXlqwEtXdPGz7ZXhFm46xaQhOmHDB_BawUMLUZ-YSo9A3q3l5rH4-hB3cP3vmejBY0gopqgcjWLy73L9P?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd75TfxuxIGdeddw2zATtnIo7QI2LghVQtyjGCuKGBRy0Npfu1sGz1gMGqzQilFsX8IGGqw5wKbRDfShIQ60nHq_vuntDgBUnt7avLMAXmzRy1hxHmzEuMwbokgaeK2AqHesWob-Py6mG-UDBb1wuCk10E3?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVek7B3kbJdcaPa2p4mwcReQEGLwwv--Y5RfKuV4hYXgU22y1YcsBYgilZMPKuP3NuYZn68CNAhKUVYFWKjwx2VAli9mKuSMlYAPAid8cmHZCBM-HN6tDws15Jk0r6_XdOaJLpceSQ4tC7jpPL5Lq2nSCR?key=1vvv5cD4l45CRGtm__ogZg"/>
+Our high school-aged campers had an opportunity to meet with representatives from the <a href="https://philadelphia.adl.org/" title="">ADL Philadelphia</a> office. Abbey and Ross, who are also phenomenal members of the Galil family, shared about the history of the ADL and strategies for dealing with and confronting antisemitism. MBM also joined us for this important presentation and activity.
+While some chanichimot chose to rest up, others chose to take a dip in the pool or throw the frisbee around. Everyone got all cleaned up for Shabbat and picked out their outfits. Most were a result of swapping clothes with friends, and some were planned matching moments. Then we all met with our <em>mishpachot</em> (family) groups to reflect on the week and get excited for what’s to come. Before long, it was time for the procession to the <em>toren</em> where we greeted each other with “Shabbat shalom” and a hug.
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXsoUQLkfO82miZOlQHqk1_yOquYTDWuPvl0vOiyBkIKiMdAjoRTZSgq_F2gqGkI56UCx6LflzKg1bQPeqqOF-NEAFPcUuApqIvFTkQpy5hasCFJ_PSTlEVAul9n0usISvWTxGwtmpVMiW5ChhEWohWX8?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFiJyTmrO4qgkWzBgQLyLo-HeW7LsQ0SoTI30QJe83T-uPihUNIrIYXL2VcW61yOA5IDedWTlsF7C2OqgtCg9VJ3kab7oMjZA3CnPFJjScby3AgOu72p6bfs28Qe9aOkIwxVEGz_6EnCrOkKkkVzCvNmQW?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc6gmdREE2vTTGVYZn3SWuXoTrtX-2xXjY5j6gJS5sC1AO4kjCSrNvhwa_M_LPT2d_g0w3ahrfO29AnXryT8H83SKdZ5VjMNy71-2cLa4Rw5fYH1eNU-3PUc4Ef4pepevavCx3l-Bb7nWDcTYXDsgE9tiIG?key=1vvv5cD4l45CRGtm__ogZg"/>
+At Kabbalat Shabbat, the Bonimot performed a challenging rikud dance, <em>Adama Veshamayim</em>, in addition to a Hebrew song and an English one. Then we sang a few songs all together to welcome in Shabbat, the favorite being the one where everyone sits on someone else’s shoulders and parades around in the middle of the circle. For dinner, we enjoyed matzo ball soup, challah, chicken, sweet and regular potatoes, beets, and green beans.
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXey-k5HMZz4l_u9ozydpLhAGWBZ42CwGomUo3NfLzXSfyEPfQcmI_SXG7VsXoktUrw0Xr3y1bNk4PJSl2tsFXSFW5uk4KEVxumPrebYMpyvLQgQwxzGX7E4Jwjkelydrx4ppe1AoBzr6aTahwS807J5svXL?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhuSaFQ3TEX5jwlt9Oa9PJuJ5o6v-0VfLeALtzy16k0JEMak6ATs6qOvxK3nUotjSXZA08i54FDOvwNgdSJpkry9GGHuztuDqtHCI5oBgqOIL7uAb1PKsNVUYAnCIh8YuVxZI70wmE8h8btXJ1kDzMYsf-?key=1vvv5cD4l45CRGtm__ogZg"/>
+Dinner was followed by Shabbat shira, the oneg, and rikud. This week, it was the Tzophimot’s turn to put on the play and lead the dancing. One of the Tzophimot had a birthday to celebrate, so we made sure to sing to Sam and lift him high in a chair before enjoying a sweet nighttime snack of <em>avatiach</em> (watermelon).
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeriu2jSbYWTMRU9guMFZoj21PKP5mJUjxK83A6X95m8Fn4YlpT1b-F9WzaqIqInejwpVj2g_nUOgd6OneX5ETLd4ZGwuebKxcG4QifKvvSFtRwmGWvHm94vmuF-Ie6raefya5ySpG9TKTxGKZRzwobE5Cv?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcEJOCYTHSYtWlCXA6R4UYQKiWPR-h-HRcfx1jqYYuopJC9R7IGDINx2_fNVbK1-6G2D-87LcZPO6iAclmIpo1PGuvYWxNW-xJCYyx9jxQJkt1UKCeUB7wKgIJivFGoE8OBjXWOUstV4m0JZkhck8y_rIbz?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfpmEAqyCGE2E7qhYq6Gf1tjTjegrHEeCDVCSMXKG-LLyC0ez2nNui6m9zkI72-MArWneKWzOdjofyFhN0wJjuqRFpphQH4pPnQybz4F-Z0D96yj9mbH__UzfloFSP-87kw_Vzy1WFuW4U7epne4VDJv4C6?key=1vvv5cD4l45CRGtm__ogZg"/>
+On Saturday morning, kids enjoyed a nice sleep-in and a yummy donut breakfast before getting their education on. First, they attended bogrim chuggim (interest groups run by the oldest campers). Then, they participated in chuggim ritzinim (serious interest groups), some of which were Jewish values, reading <em>Builders and Dreamers</em>, and Ask the Rabbi.
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdTUtDqQg_t8BsVTg1h284tby0kD2o7OxuYyX8VoCDoF5HDvJTGiS4YgXKLUWwUM65j7JKU7avpVvuJCMksEsvrkBTrS1kQhHlJuLisDtKSexMYnIcn_Oxy6Tct32MxG6ZK-C4ZC_bmbd-ZsxUyT5JDgwXP?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBvw1eOthR0YkdlA-nMBcWt7o4cKgWlKuqBP-24-YwU0OL31q3w6huyzsIux7xawWqLtA6veHe916kie7e9R7JsdaUQYZwoc4Ge402WvBWc45g0rWTDjW0o2gg9k-w9XsiMldLo6Q_72YFnl0POb_ncE0?key=1vvv5cD4l45CRGtm__ogZg"/>
+Next was a picnic style lunch by kvutzah. While kids chowed down on Israeli salad, falafel, pita, and hummus, they also caught up on letter writing and played euchre. After a little menucha (rest time), the Madatz organized a pool party for everyone! The kids dove, splashed, played, and swam until it was time to get out.
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc7OkLMooEnIqBVCXcTuMHIE6Lk4DBpa37-COAsmmTylFjxFP3w6AuiLLuB6H5YR8LL9B_ltHOoZmAWSVaNjRyVpv9rY37RiJw_oZVEF7-AuMzwF6eGql3uxQ-a0bsVj4oW_sWPi5Pf1eY_NR2DRwJktvg?key=1vvv5cD4l45CRGtm__ogZg"/>
+Later, each kvutzah gathered once again for zman kvutzah (age group activity). The Malafofonimot (rising 6th and 7th graders) spent some quality time down at the creek before the rain trickled in. The sport of the week was a futbol (soccer) tournament! Kids got so into it that even the rain couldn’t stop them from continuing to play into kibbud (snack) time. The MBMers got back from the ropes course just in time for musicale, where campers showed off their musical talents on stage.
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkeCjYaVaXDsmsmrfIeQewcmEFMYszBTesTyj5soMDPOgteJ0DFsQ8bbvMMYUUSf5Y7IY6iA6sUQ4Exk0u9T4XZj8wyRCRdDyjc1jEIpNHzBq9okcXc-U3-tl5X7LZqcgag-ARRmBYeS5DZWctUrcqwCWH?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-X-fG8KC86iKIhBCLUGhwVC7ablR7UTObQeTNWmRQNftuEA_rg0LnzrneIcJyBWF9KY6d8LXeDQjxpgTu8lU1PP07jtXU43kzYSnDmFBoZWF-UV_p_gRqX_dx48YgO9kEtUMJu-fUhGzOw3edO2Z8l_s?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7WnEJ3KPccy2RWSm_e_cAgT8jBqAuFNRWVNCC6RDhIH-sZHH4CIA1U8mrK0Woa-P7rD1vLkuIsX66CKoBeZrJtPMmiEWx7tAknRjZvSZVgNQM5VZ83CEJ1-WK0k_NbX6nZ0yz53ROeWMM_HgIa6826qLR?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcWYVHcYLd21A4GEIOJATy6OGrJ2n_ShC4oNmh4wrsSG4ssStbLznY7EfpvyFlxioGkOqG9ig2MtRCbOsY0BFfTrn5g2xS01L2-Sp6QR4ZdoxPif7WaruYsdQScgZMIezQ79-JLCBdDPM69Gl0d0Y11GRIt?key=1vvv5cD4l45CRGtm__ogZg"/>
+Everyone scurried through the rain to the chadar for dinner, which was a delicious burrito bar. Then, we had some chofesh (free time), and headed back to the mo for havdalah and medurah. After some peaceful reflection, beautiful singing, and silly indoor campfire acts, kids were sent to go get glida (ice cream)! Laila tov!
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTfOOcKhoRIJXmwqpaANOtnfbydCMEgmTwDNKHiqp0uzNznHMxUN3dMO2K3yRutVAeKFTyQicWlf3pDK4-maX6vRY2EqYtoB5pW8afGmgATuMaLYnqn33unRmlfi6lFo52St-mFjzpH5pGx7yRAaDGOnJy?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXddoFSSENCygd1-8rZdf4psQk0m6wzd2-qhx9oa8Fp5CyGEXrguRO4tV518H2ZxY5mOHrD_LUsVYhI8vz1sxtiquwC4j6vVNk8wbNI-A-44RWdCorYVtNeJCIBv99oRbo2BDXUzz-3oDrc_kA7stSad8bN8?key=1vvv5cD4l45CRGtm__ogZg"/>
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfOHiIHvLYFt2XlfonDsSzQtIpsl7RM2duxEl7K3jWT729IXKyqrzQB-WFNmZ2uZR52Tnsvu8rqkPN3BlHlhT5VVzd3SaRIYHunaXnTFI-WnQNjjAHELu-u9TEycI2H4LiUX9WctiFfe8lZmPcqdaZnXM4?key=1vvv5cD4l45CRGtm__ogZg"/>
 

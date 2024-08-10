@@ -14,7 +14,7 @@ author: VV
 
 Chanichimot went on an adventure to Hershey Park.
 They had a really good time.
-![Galil Chanichim boarding the bus.](/public/kupa.jpg)
+![Galil Chanichim boarding the bus.](/public/kupa.jpg) 
 
 Chanichimot went on an adventure to Hershey Park.
 Chanichimot went on an adventure to Hershey Park.
