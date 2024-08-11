@@ -1,7 +1,7 @@
 ---
 title: Tiyul with Galil
 slug: tiyulwithgalil
-description: Shalom, Galil families!
+description: For the past two days, the entire machaneh was on tiyul (hiking/camping trip)!
 category:
 - Two
 tags:
