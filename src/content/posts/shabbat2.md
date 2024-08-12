@@ -1,4 +1,3 @@
-
 ---
 title: Shabbat at Galil
 slug: shabbatatgalil

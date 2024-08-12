@@ -9,7 +9,7 @@ tags:
 pubDate: 2023-09-02
 cover: https://www.campgalil.org/wp-content/uploads/2024/07/IMG_2417-1024x683.jpg
 coverAlt: AstroVerse-Content Collections
-author: Sebina
+author: Mira
 ---
 
 Shalom Galil families!
